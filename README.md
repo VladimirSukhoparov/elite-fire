@@ -1,5 +1,10 @@
 # elite-fire
 
+
+creating a landing page based on the figma layout
+![screenshot](./readme-assets/elite-fire.png)
+
+
 ### Install dependencies
 
 ```bash
