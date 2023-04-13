@@ -2,7 +2,7 @@
 
 
 creating a landing page based on the figma layout
-![screenshot](./readme-assets/elite-fire.png)
+pages: https://vladimirsukhoparov.github.io/elite-fire/
 
 
 ### Install dependencies
